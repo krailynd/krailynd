@@ -1,3 +1,8 @@
+<h1 align="center"><b>Hi , I'm Valentina Werle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
   
 **🤖Artificial Intelligence** 
