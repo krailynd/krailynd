@@ -114,9 +114,6 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 
 <details open="true"><summary>2023-01-31</summary><li><a href="empety">《empety》</a></li></details>
 <!-- diary ends -->
-
-_More on [diary.jyunko.cn](https://diary.jyunko.cn)_ or 
-_you can join [us](https://github.com/Diaries-Store)_.
 </p>
 </td></tr></table>
 
