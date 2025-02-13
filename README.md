@@ -243,7 +243,7 @@ Linux        25 mins       █████████████████�
 </td></tr></table>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%A5+Videos+de+Youtube+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%A5+Youtube+%F0%9F%92%A5" alt="Typing SVG" />
 </a>
 
 <!-- BEGIN YOUTUBE-CARDS -->
