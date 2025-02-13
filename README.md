@@ -138,7 +138,10 @@ _you can join [us](https://github.com/Diaries-Store)_.
 </a>
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Krailynd&show_icons=true&hide=[%22issues%22])
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krailynd)](https://git.io/streak-stats) <br />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Krailynd&theme=dark)](https://git.io/streak-stats)
+
+<br />
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Krailynd&show_icons=true&hide_border=true&theme=white" width="37%" alt="Sumanth's Top Languages">
 
 <a href="https://git.io/typing-svg">
