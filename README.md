@@ -2,6 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://s3.gifyu.com/images/b2BHE.gif"/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+
 # **About Me** 
 👨‍💻 **Systems Engineering Student** at **San Juan Bautista University**. 
 As of **March 22, 2025**, I’m just beginning my career, but my passion for technology goes far beyond the classroom.  
