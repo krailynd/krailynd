@@ -229,6 +229,10 @@ Linux                    25 mins             ███████████�
 </p>
 </td></tr></table>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%A5+Videos+de+Youtube+%F0%9F%92%A5" alt="Typing SVG" />
+</a>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Lesionado (freestyle)](https://ytcards.demolab.com/?id=6BlAL9UQUdw&title=Lesionado+%28freestyle%29&lang=en&timestamp=1713022257&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lesionado (freestyle)")](https://www.youtube.com/watch?v=6BlAL9UQUdw)
 [![Regreso](https://ytcards.demolab.com/?id=bVgfT4Ponzo&title=Regreso&lang=en&timestamp=1707600855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Regreso")](https://www.youtube.com/watch?v=bVgfT4Ponzo)
