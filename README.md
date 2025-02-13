@@ -156,7 +156,7 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Krailynd&show_icons=true&hide_border=true&theme=white" width="37%" alt="Sumanth's Top Languages">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%91%8C+My+Daily+Stats+%F0%9F%91%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&background=whiteEE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%91%8C+My+Daily+Stats+%F0%9F%91%8C" alt="Typing SVG" />
 </a>
 
 ```text
