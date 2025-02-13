@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Krailynd </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://s3.gifyu.com/images/b2BHE.gif" width="300px" alt="Unicorn">
+  <img src="https://s3.gifyu.com/images/b2BRo.gif" width="300px" alt="Unicorn">
 </p>
 
 ---
