@@ -145,7 +145,7 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 
 <!--->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%94%A5+%F0%9F%93%8D+My+Stats+For+Github+%F0%9F%93%8D+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF4500&background=whiteEE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%94%A5+%F0%9F%93%8D+My+Stats+For+Github+%F0%9F%93%8D+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Krailynd&show_icons=true&hide=[%22issues%22])
