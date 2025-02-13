@@ -136,7 +136,7 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/512102c3-0315-4baa-b65b-29db03c1d63b.svg)](https://wakatime.com/@512102c3-0315-4baa-b65b-29db03c1d63b)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&background=000000EE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&background=whiteEE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a> 
 <a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=merko)</a> 
