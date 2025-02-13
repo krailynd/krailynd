@@ -126,31 +126,21 @@ _you can join [us](https://github.com/Diaries-Store)_.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a>
-<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=merko)</a>
-<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a>
+<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a> 
+<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=merko)</a> 
+<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a> 
+<!--->
 
+<!--->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF4500&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%94%A5+%F0%9F%93%8D+My+Stats+%F0%9F%93%8D+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Krailynd&show_icons=true&hide=[%22issues%22])
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krailynd)](https://git.io/streak-stats) <br />
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Krailynd&show_icons=true&hide_border=true&theme=white" width="37%" alt="Sumanth's Top Languages">
 
-```text
-🌞 Morning                0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
+<!--->
 
 <!--█END_SECTION:waka█-->
   ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
@@ -168,6 +158,20 @@ Sunday                   0000 commits        ░░░░░░░░░░░�
   ***
   
   > 🧠💭 The journey starts in your mind, the rest is just the path. 🌟🚀
+  
+  ***
+
+  ***
+  
+  > Nature is the art of God. 🌿✨
+  
+  ***
+  
+<img width="305" align="center" src="https://s3.gifyu.com/images/b2OqO.gif">
+
+  ***
+  
+  > The Earth is what we all have in common. 🌍💚
   
   ***
   
