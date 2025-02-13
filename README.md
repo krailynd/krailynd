@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://s3.gifyu.com/images/b2BRo.gif" width="500px" alt="Unicorn">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500px" alt="Unicorn">
 </p>
+
 
 ---
 
@@ -241,3 +242,7 @@ Linux                    25 mins             ███████████�
 [![NUEVA ACTUALIZACIÓN DE LA APK 4 DEDOS!!9.1 CON BUG DE DAÑO ARREGLADO COMPATIBLE ,GAMEPAD (SAMPDROID)](https://ytcards.demolab.com/?id=Bjb0otXmYfw&title=NUEVA+ACTUALIZACI%C3%93N+DE+LA+APK+4+DEDOS%21%219.1+CON+BUG+DE+DA%C3%91O+ARREGLADO+COMPATIBLE+%2CGAMEPAD+%28SAMPDROID%29&lang=en&timestamp=1674719943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NUEVA ACTUALIZACIÓN DE LA APK 4 DEDOS!!9.1 CON BUG DE DAÑO ARREGLADO COMPATIBLE ,GAMEPAD (SAMPDROID)")](https://www.youtube.com/watch?v=Bjb0otXmYfw)
 [![Transmisión en vivo de _BalTaZar](https://ytcards.demolab.com/?id=LHonMVj82iM&title=Transmisi%C3%B3n+en+vivo+de+_BalTaZar&lang=en&timestamp=1674087730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Transmisión en vivo de _BalTaZar")](https://www.youtube.com/watch?v=LHonMVj82iM)
 <!-- END YOUTUBE-CARDS -->
+
+<p align="center">
+  <img src="https://s3.gifyu.com/images/b2BRo.gif" width="500px" alt="Unicorn">
+</p>
