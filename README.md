@@ -3,19 +3,29 @@
 <img align="right" width=300px alt="Unicorn" src="https://s3.gifyu.com/images/b2BHE.gif"/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-About Me
-👨‍💻 Systems Engineering Student at San Juan Bautista University. As of March 22, 2025, I’m just beginning my career, but my passion for technology goes far beyond the classroom. I am a self-taught learner, constantly expanding my knowledge, especially in Android app development and, even more, in Java, my favorite programming language, which I deeply appreciate.
+# **About Me**  
 
-🚀 Creative, innovative, and a natural leader, I love working in a team, but even more, leading it—motivating each member to bring out their best. My goal is to solve problems, create new applications, and apply all my knowledge to contribute to the success of any company that trusts in my work.
+👨‍💻 **Systems Engineering Student** at **San Juan Bautista University**.  
+As of **March 22, 2025**, I’m just beginning my career, but my passion for technology goes far beyond the classroom.  
+I am a **self-taught learner**, constantly expanding my knowledge, especially in **Android app development** and, even more, in **Java**, my favorite programming language, which I deeply appreciate.  
 
-📚 Currently Learning...
-✅ Rust 🦀
-✅ Kotlin 📱
+🚀 **Creative, innovative, and a natural leader**, I love working in a team, but even more, **leading it**—motivating each member to bring out their best.  
+My goal is to **solve problems, create new applications**, and apply all my knowledge to contribute to the success of any company that trusts in my work.  
 
-🎵 Beyond Technology...
-When I’m not coding, I immerse myself in the world of music production. I also enjoy playing video games 🎮, reading 📖, listening to podcasts 🎙️, and constantly learning new things.
+---
 
-👾 Additionally, I create content about computer science on my social media. Feel free to check out my profile and discover more about my work! 🚀
+## 📚 **Currently Learning...**  
+✅ **Rust** 🦀  
+✅ **Kotlin** 📱  
+
+---
+
+## 🎵 **Beyond Technology...**  
+When I’m not coding, I immerse myself in the world of **music production**.  
+I also enjoy **playing video games 🎮**, **reading 📖**, **listening to podcasts 🎙️**, and **constantly learning new things**.  
+
+👾 **Additionally**, I create content about computer science on my social media.  
+**Feel free to check out my profile and discover more about my work! 🚀**  
 - 📫 Reach out to me at: <a href="krailyndwork@gmail.com">Krailyndwork@gmail.com</a>
 
 
