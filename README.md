@@ -9,7 +9,7 @@ I am a self-taught learner, constantly expanding my knowledge, especially in And
 in Java, my favorite programming language, which I deeply appreciate.  
 🚀Creative, innovative, and a natural leader, I love working in a team, but even more, leading it motivating each member to bring out their best.  
 My goal is to solve problems, create new applications, and apply all my knowledge to contribute to the success of any company that trusts in my work.  
----
+
 
 ## 📚 **Currently Learning...**  
 ✅ **Rust** 🦀  
