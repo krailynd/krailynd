@@ -1,4 +1,7 @@
 <h1 align="center"><b>Hi, I'm Krailynd </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=3000&pause=500&color=66FF66&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%9B%AA+KRAILYND+%F0%9F%9B%AA" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <img src="https://s3.gifyu.com/images/b2BRo.gif" width="500px" alt="Unicorn">
@@ -84,6 +87,15 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**🌍The browser I use the most**
+
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+
+**🎴Where I take notes**
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 </td>
 </td><td valign="top" width="50%">
 <p align="right">
@@ -112,7 +124,13 @@ _you can join [us](https://github.com/Diaries-Store)_.
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/512102c3-0315-4baa-b65b-29db03c1d63b.svg)](https://wakatime.com/@512102c3-0315-4baa-b65b-29db03c1d63b)
 
-**I'm a Night 🦉** 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a>
+<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=merko)</a>
+<a href="https://github.com/krailynd/krailynd.github.io">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Krailynd&repo=krailynd.github.io&theme=cobalt)</a>
+
+
 
 ```text
 🌞 Morning                0000 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -141,15 +159,15 @@ Sunday                   0000 commits        ░░░░░░░░░░░�
 
   ***
   
-  > 人类对科技，一比零 :s
+  > 🌍✨ Travel is growth, one step at a time. 🚶‍♂️💫
   
   ***
   
-<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+<img width="305" align="center" src="https://s3.gifyu.com/images/b2BUi.gif">
 
   ***
   
-  > Human Vs. AI (1:0) :s
+  > 🧠💭 The journey starts in your mind, the rest is just the path. 🌟🚀
   
   ***
   
