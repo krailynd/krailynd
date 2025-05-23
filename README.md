@@ -252,7 +252,6 @@ Linux        25 mins       █████████████████�
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Lesionado (freestyle)](https://ytcards.demolab.com/?id=6BlAL9UQUdw&title=Lesionado+%28freestyle%29&lang=en&timestamp=1713022257&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lesionado (freestyle)")](https://www.youtube.com/watch?v=6BlAL9UQUdw)
-[![El Mejor Detective 🧐 (among us 2023)](https://ytcards.demolab.com/?id=_lv1u_p6-x0&title=El+Mejor+Detective+%F0%9F%A7%90+%28among+us+2023%29&lang=en&timestamp=1674939397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "El Mejor Detective 🧐 (among us 2023)")](https://www.youtube.com/watch?v=_lv1u_p6-x0)
 [![Transmisión en vivo de _BalTaZar](https://ytcards.demolab.com/?id=LHonMVj82iM&title=Transmisi%C3%B3n+en+vivo+de+_BalTaZar&lang=en&timestamp=1674087730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Transmisión en vivo de _BalTaZar")](https://www.youtube.com/watch?v=LHonMVj82iM)
 [![xD](https://ytcards.demolab.com/?id=GmR8SudG5Ug&title=xD&lang=en&timestamp=1650830338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "xD")](https://www.youtube.com/watch?v=GmR8SudG5Ug)
 <!-- END YOUTUBE-CARDS -->
