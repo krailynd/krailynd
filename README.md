@@ -251,9 +251,7 @@ Linux        25 mins       █████████████████�
 </a>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Lesionado (freestyle)](https://ytcards.demolab.com/?id=6BlAL9UQUdw&title=Lesionado+%28freestyle%29&lang=en&timestamp=1713022257&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lesionado (freestyle)")](https://www.youtube.com/watch?v=6BlAL9UQUdw)
 [![Transmisión en vivo de _BalTaZar](https://ytcards.demolab.com/?id=LHonMVj82iM&title=Transmisi%C3%B3n+en+vivo+de+_BalTaZar&lang=en&timestamp=1674087730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Transmisión en vivo de _BalTaZar")](https://www.youtube.com/watch?v=LHonMVj82iM)
-[![xD](https://ytcards.demolab.com/?id=GmR8SudG5Ug&title=xD&lang=en&timestamp=1650830338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "xD")](https://www.youtube.com/shorts/GmR8SudG5Ug)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="center">
