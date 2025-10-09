@@ -16,7 +16,7 @@
 
 <!-- Imagen única a la derecha -->
 <img align="right" alt="Profile Hero" width="320"
-     src="<!-- REEMPLAZA_AQUI: pega el enlace directo desde iBB (https://i.ibb.co/.../archivo.png) -->" />
+     src="https://ibb.co/bjDPLR2M" />
 
 <!-- Efecto de escritura -->
 <p align="left">
