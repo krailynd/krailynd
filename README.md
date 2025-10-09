@@ -3,7 +3,7 @@
 
 
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Barriecito&size=75&duration=1400&pause=500&color=59E817&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Krailynd+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://ibb.co/bjDPLR2M" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -51,15 +51,6 @@ My favorite programming language is **Java**, which I enjoy mastering through bu
 ✅ **Kotlin** 📱  
 ✅ **Advanced Java Concepts** ☕  
 
----
-
-## ⚙️ **Tech I Like**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,js,ts,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,bash,neovim,vscode,figma&perline=9" />
-</p>
-
----
-
 ## ✨ **Quick Facts**
 - 👨🏽‍💻 Focused on **Java** and **Android development**.  
 - 🌱 Exploring **Rust** and **Kotlin** ecosystems.  
@@ -80,12 +71,10 @@ My favorite programming language is **Java**, which I enjoy mastering through bu
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElvisMelchor&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisMelchor&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisMelchor&layout=compact&theme=transparent&hide_border=true" />
-</div>
+## ⚙️ **Tech I Like**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,js,ts,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,bash,neovim,vscode,figma&perline=9" />
+</p>
 
 ---
 
