@@ -101,12 +101,12 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-</td>
+<!--</td>
 </td><td valign="top" width="50%">
 <p align="right">
 
 ### My Diaries :s
->Notes
+>Notes-->
 <!-- diary starts -->
 <!--<details open="true"><summary>2023-03-13</summary><li><a href="https://krailynd-github-io.vercel.app/support.html#ch1">《Featured note》</a></li></details>
 
