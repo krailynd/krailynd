@@ -12,35 +12,86 @@
 </p>
 
 
+<h1 align="left">Hi there 👋, I'm Elvis Melchor Carbajal Dall’Orso</h1>
+
+<!-- Imagen única a la derecha -->
+<img align="right" alt="Profile Hero" width="320"
+     src="<!-- REEMPLAZA_AQUI: pega el enlace directo desde iBB (https://i.ibb.co/.../archivo.png) -->" />
+
+<!-- Efecto de escritura -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=440&lines=Systems+Engineering+Student;Java+%26+Android+Developer;Creative+and+Curious+Mind;Lifelong+Learner+%F0%9F%93%96;Rust+and+Kotlin+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Badges de contacto -->
+<p>
+  <a href="mailto:elvis.melchor@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/elvismelchor"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
+  <a href="https://www.instagram.com/elvismelchor"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram"></a>
+</p>
+
 ---
 
 ## 🧑‍💻 **About Me**  
-👨‍🎓 **Systems Engineering Student** at **San Juan Bautista University**.  
+👨‍🎓 **Systems Engineering Student** at **Universidad San Juan Bautista** (Perú).  
 📅 **Starting my career:** March 22, 2025.  
 
-I am a **self-taught learner**, constantly expanding my knowledge, especially in **Android app development** and, even more, in **Java**, my favorite programming language, which I deeply appreciate.  
+I am a **self-taught learner**, passionate about **technology and problem-solving**.  
+My favorite programming language is **Java**, which I enjoy mastering through building practical and creative projects.  
 
-🚀 **Creative, innovative, and a natural leader**, I love working in a team, but even more, **leading it**—motivating each member to bring out their best.  
-💡 My goal is to **solve problems, create new applications**, and apply all my knowledge to contribute to the success of any company that trusts in my work.  
+🚀 **Innovative, disciplined, and motivated**, I enjoy teamwork and leadership, helping others reach their best potential.  
+💡 My mission is to **build useful software**, solve real-world problems, and keep learning every day to grow as a professional.
 
 ---
 
 ## 📚 **Currently Learning...**  
 ✅ **Rust** 🦀  
 ✅ **Kotlin** 📱  
+✅ **Advanced Java Concepts** ☕  
+
+---
+
+## ⚙️ **Tech I Like**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,js,ts,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,bash,neovim,vscode,figma&perline=9" />
+</p>
+
+---
+
+## ✨ **Quick Facts**
+- 👨🏽‍💻 Focused on **Java** and **Android development**.  
+- 🌱 Exploring **Rust** and **Kotlin** ecosystems.  
+- 🤝 Open to collaborate on open-source or student projects.  
+- 💬 Ask me about **object-oriented programming**, **logic design**, or **mobile UI/UX**.  
+- 🎯 Goal: To become a **strong backend/mobile developer** and contribute to innovative software.
 
 ---
 
 ## 🎵 **Beyond Technology...**  
-🎧 **Music Producer** & Passionate about Sound Design.  
-🎮 **Gamer**, exploring new worlds and challenges.  
-📖 **Avid Reader**, always learning something new.  
-🎙️ **Podcast Listener**, feeding my curiosity.  
+🎧 **Music Enthusiast** & creative thinker.  
+🎮 **Gamer**, exploring challenges and virtual worlds.  
+📖 **Reader** of technology and leadership books.  
+🎙️ **Podcast Listener**, always curious about innovation and AI.  
 
-👾 **Additionally**, I create content about **computer science** on my social media.  
-**Feel free to check out my profile and discover more about my work! 🚀**  
+👾 Additionally, I share educational content about **computer science and software development** on my social networks.  
+**Feel free to explore my repositories and projects! 🚀**
 
 ---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElvisMelchor&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisMelchor&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisMelchor&layout=compact&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  Made with ❤️ | Keep building, keep growing 🌱
+</p>
 
 ## 📫 **Let's Connect!**  
 📩 **Email:** [krailyndwork@gmail.com](mailto:krailyndwork@gmail.com)  
