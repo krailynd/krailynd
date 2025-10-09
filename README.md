@@ -1,41 +1,73 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 
+<!--inicio-->
+<!-- Banner animado centrado: verde neón + rol rotatorio -->
+<div align="center">
+
+  <!-- Onda decorativa superior (dinámica estilo hero) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=110&section=header&text=%20&fontSize=0&animation=fadeIn" width="100%" />
+
+  <!-- Línea 1: saludo -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=900&duration=3200&color=22C55E&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&cursor=%7C&width=780&height=60&lines=Hi+there+%F0%9F%91%8B"
+      alt="Typing SVG - Greeting"
+    />
+  </a>
+
+  <!-- Línea 2: nombre completo (tono verde más oscuro para contraste) -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&duration=3600&color=16A34A&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&cursor=%7C&width=980&height=60&lines=I'm+Elvis+Melchor+Carbajal+Dall%E2%80%99Orso"
+      alt="Typing SVG - Name"
+    />
+  </a>
+
+  <!-- Línea 3: roles / intereses rotando (más vivo) -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&duration=2400&color=1FF700&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&cursor=%7C&width=980&height=80&lines=Systems+Engineering+Student+%F0%9F%93%96"
+      alt="Typing SVG - Roles"
+    />
+  </a>
+
+  <!-- Separador “neón” con dos badges en gradiente simulado -->
 
 
-<h1 align = "center">
-<a href="https://ibb.co/bjDPLR2M"><img src="https://ibb.co/bjDPLR2M" alt="Typing SVG" /></a>
-</h1>
+  <!-- Contadores/mini-dinámica opcional (puedes quitar si no quieres) -->
 
+  <!-- Onda decorativa inferior -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=90&section=footer&text=%20&fontSize=0&animation=fadeIn" width="100%" />
+</div>
+<!--final-->
 
 <p align="center">
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" width="800px" alt="Unicorn">
 </p>
 
-
-<h1 align="left">Hi there 👋, I'm Elvis Melchor Carbajal Dall’Orso</h1>
-
-<!-- Imagen única a la derecha -->
-<img align="right" alt="Profile Hero" width="320"
-     src="https://ibb.co/bjDPLR2M" />
-
-<!-- Efecto de escritura -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=440&lines=Systems+Engineering+Student;Java+%26+Android+Developer;Creative+and+Curious+Mind;Lifelong+Learner+%F0%9F%93%96;Rust+and+Kotlin+Explorer" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Badges de contacto -->
 <p>
-  <a href="mailto:elvis.melchor@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+  <a href="krailyndwork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/elvismelchor"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
   <a href="https://www.instagram.com/elvismelchor"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram"></a>
 </p>
+<!-- Efecto de escritura -->
+
+
+<!-- 🔧 CLAVE: limpia el float de la imagen para que los separadores no crucen la foto -->
+<br clear="right" />
 
 ---
 
 ## 🧑‍💻 **About Me**  
 👨‍🎓 **Systems Engineering Student** at **Universidad San Juan Bautista** (Perú).  
+<img
+  align="right"
+  alt="Profile Hero"
+  width="150"
+  src="https://i.ibb.co/Q7tfnjC3/Whats-App-Image-2025-10-08-at-11-29-08-PM.jpg"
+/>
+
 📅 **Starting my career:** March 22, 2025.  
 
 I am a **self-taught learner**, passionate about **technology and problem-solving**.  
