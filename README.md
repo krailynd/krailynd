@@ -153,7 +153,7 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Krailynd&theme=dark)](https://git.io/streak-stats)
 
 <br />
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Krailynd&show_icons=true&hide_border=true&theme=white" width="47%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Krailynd&show_icons=true&hide_border=true&theme=white" width="57%" alt="Sumanth's Top Languages">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&background=whiteEE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%91%8C+My+Daily+Stats+%F0%9F%91%8C" alt="Typing SVG" />
