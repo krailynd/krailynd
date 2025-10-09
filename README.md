@@ -229,5 +229,5 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
 	<br>
-    	<img src="https://bingimages.herokuapp.com/unsplash1" width="400" height="200">
+    	<!--<img src="" width="400" height="200">-->
 </div>
