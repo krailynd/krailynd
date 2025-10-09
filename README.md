@@ -224,3 +224,10 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 <p align="center">
   <img src="https://s3.gifyu.com/images/b2BRo.gif" width="500px" alt="Unicorn">
 </p>
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="400" height="200">
+</div>
