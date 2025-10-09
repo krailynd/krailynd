@@ -3,7 +3,7 @@
 
 
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://ibb.co/bjDPLR2M" alt="Typing SVG" /></a>
+<a href="https://ibb.co/bjDPLR2M"><img src="https://ibb.co/bjDPLR2M" alt="Typing SVG" /></a>
 </h1>
 
 
