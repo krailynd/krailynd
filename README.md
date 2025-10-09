@@ -108,7 +108,7 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 ### My Diaries :s
 >Notes
 <!-- diary starts -->
-<details open="true"><summary>2023-03-13</summary><li><a href="https://krailynd-github-io.vercel.app/support.html#ch1">《Featured note》</a></li></details>
+<!--<details open="true"><summary>2023-03-13</summary><li><a href="https://krailynd-github-io.vercel.app/support.html#ch1">《Featured note》</a></li></details>
 
 <details open="true"><summary>2023-02-18</summary><li><a href="empety">《empety》</a></li></details>
 
@@ -124,7 +124,7 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 
 <details open="true"><summary>2023-02-16</summary><li><a href="empety">《empety》</a></li></details>
 
-<details open="true"><summary>2023-01-31</summary><li><a href="empety">《empety》</a></li></details>
+<details open="true"><summary>2023-01-31</summary><li><a href="empety">《empety》</a></li></details>-->
 
 
 <!-- diary ends -->
