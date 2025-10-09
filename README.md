@@ -220,11 +220,11 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Transmisión en vivo de _BalTaZar](https://ytcards.demolab.com/?id=LHonMVj82iM&title=Transmisi%C3%B3n+en+vivo+de+_BalTaZar&lang=en&timestamp=1674087730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Transmisión en vivo de _BalTaZar")](https://www.youtube.com/watch?v=LHonMVj82iM)
 <!-- END YOUTUBE-CARDS -->
-
+<!--
 <p align="center">
   <img src="https://s3.gifyu.com/images/b2BRo.gif" width="500px" alt="Unicorn">
 </p>
-
+-->
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
