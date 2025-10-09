@@ -159,42 +159,6 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
   <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&background=whiteEE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%91%8C+My+Daily+Stats+%F0%9F%91%8C" alt="Typing SVG" />
 </a>
 
-```text
-🌞 Morning    5698 commits  █████░░░░░░░░░░░░   20.18 % 
-🌆 Daytime    8388 commits  ███████░░░░░░░░░░   29.71 % 
-🌃 Evening    6704 commits  ██████░░░░░░░░░░░   23.75 % 
-🌙 Night      7443 commits  ███████░░░░░░░░░░   26.36 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       4353 commits  ████░░░░░░░░░░░░░░   15.42 % 
-Tuesday      3547 commits  ███░░░░░░░░░░░░░░░   12.56 % 
-Wednesday    4393 commits  ████░░░░░░░░░░░░░░   15.56 % 
-Thursday     3850 commits  ███░░░░░░░░░░░░░░░   13.64 % 
-Friday       3720 commits  ███░░░░░░░░░░░░░░░   13.18 % 
-Saturday     3810 commits  ███░░░░░░░░░░░░░░░   13.49 % 
-Sunday       4560 commits  ████░░░░░░░░░░░░░░   16.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust         23 mins       █████████████████░   92.95 % 
-Python       1 min         █░░░░░░░░░░░░░░░░░   05.95 % 
-TOML         0 secs        ░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🔥 Editors: 
-VS Code      25 mins       ██████████████████   100.00 % 
-
-💻 Operating System: 
-Linux        25 mins       ██████████████████   100.00 % 
-```
-
-
- Last Updated on 13/02/2025 04:38:15 UTC
 <!--END_SECTION:waka-->
 
   ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
