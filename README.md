@@ -1,4 +1,4 @@
-
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 
 
 
@@ -231,3 +231,5 @@ I am a **self-taught learner**, constantly expanding my knowledge, especially in
 	<br>
     	<!--<img src="" width="400" height="200">-->
 </div>
+
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
