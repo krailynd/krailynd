@@ -222,9 +222,9 @@ My favorite programming language is **Java**, which I enjoy mastering through bu
   <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF4500&background=whiteEE&center=true&vCenter=true&width=635&height=80&lines=%F0%9F%94%A5+%F0%9F%93%8D+My+Stats+For+Github+%F0%9F%93%8D+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Krailynd&show_icons=true&hide=[%22issues%22])
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krailynd)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Krailynd&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krailynd&theme=gruvbox&hide_border=true&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br />
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Krailynd&show_icons=true&hide_border=true&theme=white" width="47%" alt="Sumanth's Top Languages">
