@@ -105,7 +105,7 @@ My favorite programming language is **Java**, which I enjoy mastering through bu
 
 ## ⚙️ **Tech I Like**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,js,ts,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,bash,neovim,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ableton,java,kotlin,androidstudio,gradle,js,ts,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,bash,neovim,vscode,figma,angular,astro,&perline=9" />
 </p>
 
 ---
